@@ -8,5 +8,6 @@
 <li>Copy the HTML code in /var/www/html directory and start the webserver.</li>
 </ul>
 
-everything is expected here 
- <a href= "https://nischalvooda.medium.com/integrating-ansible-and-docker-824a6bc214b3" target="_blank"> 🔗 Blog </a>
+everything is expected here 🔗
+ <a href= "https://nischalvooda.medium.com/integrating-ansible-and-docker-824a6bc214b3" target="_blank">Blog</a>
+ <a href="https://www.w3schools.com" target="_blank">Visit W3Schools.com!</a> 
